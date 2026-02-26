@@ -1,0 +1,31 @@
+# RAG Framework
+langchain==0.3.19
+langchain-community==0.3.18
+langchain-google-genai==2.0.10
+
+# Embeddings (local, no API key)
+sentence-transformers==3.4.1
+
+# Vector Store
+faiss-cpu==1.9.0
+
+# PDF Parsing
+pypdf==5.3.1
+
+# LLM APIs
+google-generativeai==0.8.4
+groq==0.15.0
+
+# Evaluation
+ragas==0.2.14
+
+# App
+streamlit==1.43.1
+
+# Data
+pandas==2.2.3
+numpy==1.26.4
+
+# Utils
+python-dotenv==1.0.1
+tqdm==4.67.1
